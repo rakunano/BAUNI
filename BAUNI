@@ -39,7 +39,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 
 #EXTINF:-1 group-logo="https://lokawarta.com/wp-content/uploads/Negara-Kesatuan-Republik-Indonesia-q2m78rea41yxlajt8xeua4fv4lis6ogveh656jc37g.jpg",
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="NASIONAL TV", INDOSIAR DENS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="NASIONAL TV", INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
@@ -184,12 +184,10 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w246513704_b3
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/53.jpg" group-title="BERITA", Bloomberg Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w246513704_b384000_sleng.m3u8
 https://dai.google.com/linear/hls/pb/event/crO2xItzS0K0Mznc1p0yPA/stream/03bc9365-0d08-4f24-b4b4-ecdfda8981e6:SIN2/variant/ae139b229b5726df274b262af86ad644/bandwidth/1200000.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/53.jpg" group-title="BERITA", Bloomberg USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w246513704_b384000_sleng.m3u8
 https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -260,14 +258,11 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png" group-title="BERITA",Al Jazeera
 https://nyanv-live-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/a/a0/20160830052851%21Russia-today-logo.svg/120px-Russia-today-logo.svg.png" group-title="BERITA",Russia Today
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tr.arrow-premium-tv.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68572841ba301729cea1be63c1b/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Russia-Today-Logo.svg/2560px-Russia-Today-Logo.svg.png" group-title="BERITA",Rusia Today
+https://nyanv-live-cdn.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -742,9 +737,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-1-logo-4E5E4AE6B8-seeklogo.com.png" group-title="OLAHRAGA", BEIN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
 https://cdn10jtedge.indihometv.com/dass/107/bein1/manifest_wuseetv.mpd?encp=41qcsEldjGEykETbMycclQ&uid=&expp=1713342653
 
@@ -2008,3 +2001,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-logo="https://jadibatek.com/wp-content/uploads/2020/04/anhui-tv-logo.jpg" group-title="ENTERTAINMENT",Anhui TV
 https://nyanv-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
+
+
+#EXTINF:-1 
+#EXTM3U billed-msg="RAHASIA, JANGAN SAMBARANG SE SEBAR"
