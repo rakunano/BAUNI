@@ -734,12 +734,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h238/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-1-logo-4E5E4AE6B8-seeklogo.com.png" group-title="OLAHRAGA", BEIN 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
-https://cdn10jtedge.indihometv.com/dass/107/bein1/manifest_wuseetv.mpd?encp=41qcsEldjGEykETbMycclQ&uid=&expp=1713342653
-
 #EXTINF:-1  tvg-logo="https://seeklogo.com/images/B/bein-sports-3-logo-42227D7D66-seeklogo.com.png" group-title="OLAHRAGA", BEIN SPORT 3 IND
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
@@ -1877,10 +1871,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
 #EXTINF:-1 tvg-logo="https://images.hopeplatform.org/resize/L3dfMTI4MF9fcV83NS9ob3BlLWltYWdlcy82MjBlMjNkNGM0OWQ2NDAwNjU5NWMxOTIvTWVVMTY3NzU5NzkxMTkxNi5wbmc/w_1280__q_75/hope-images/620e23d4c49d64006595c192/MeU1677597911916.png" group-title="ROHANI", HOPE Channel USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://videodelivery.net/8dfdf197ede241dd3c8b745a08e039e5/manifest/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.hopeplatform.org/resize/L3dfMTI4MF9fcV83NS9ob3BlLWltYWdlcy82MjBlMjNkNGM0OWQ2NDAwNjU5NWMxOTIvTWVVMTY3NzU5NzkxMTkxNi5wbmc/w_1280__q_75/hope-images/620e23d4c49d64006595c192/MeU1677597911916.png" group-title="ROHANI", HOPE Channel Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1713110477/ei/bakbZq2kCoyx4-EPyLiw6Ac/ip/180.249.89.22/id/K0L0RWyfA_M.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9fxpKWX5YvKqhJUvwThW-KUybwkyufcHnoVJjFjQE011jqAA4_taaVW1AuHS2r7RxPKnUZQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJgyYpscSaUg2nMiaaGyVx6dtdTCeoRf0T4RTUsJadcoAiBG0guhA2ngFger7Im8_p6J53sGiQlJ7Yt7ZO3oO-uYOQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://u-channel.tv/wp-content/uploads/2017/08/Logo.png" group-title="ROHANI", U Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
