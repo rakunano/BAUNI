@@ -35,7 +35,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/SCTV/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/133/sctv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://www.sctv.co.id/_nuxt/img/site-logo.43a458b.png" group-title="NASIONAL TV",SCTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
