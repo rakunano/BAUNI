@@ -29,6 +29,14 @@ https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
+#EXTINF:-1 tvg-logo="" tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="INDIHOME", SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/SCTV/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://www.sctv.co.id/_nuxt/img/site-logo.43a458b.png" group-title="NASIONAL TV",SCTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -181,10 +189,6 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b2800
 #EXTINF:-1 tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo.png?v=6.2.0" group-title="BERITA", CNBC Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w246513704_b384000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/53.jpg" group-title="BERITA", Bloomberg
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://live-prod-us-event-primary.akamaized.net/evt/Channel-USEvt-AWS-virginia-2/Source-USEvt-10000-1-sdlg9j-BP-HD-4-W7WyphVQipuJ_live.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/53.jpg" group-title="BERITA", Bloomberg USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -407,7 +411,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-New
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-oyavvTBpiDL7U5CIVcLUeaMcLCDy1ugzQgBYR6mUwWH1AqGHpvWw3_o&s=10" group-title="ANAK-ANAK",NickJr
 https://cempedak-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rs2dN1W/indikids-big-copy.png" group-title="ANAK-ANAK",  INDI KIDS
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png" group-title="ANAK-ANAK",  FUN PLANET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
