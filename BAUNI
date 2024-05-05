@@ -140,6 +140,8 @@ https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
 
 
 ---------------------------->BERITA<----------------------------
+#EXTINF:-1 group-logo="https://marketplace.canva.com/EAFCPpsc460/2/0/1600w/canva-logo-biru-tua-merah-putih-berita-generik-berita-umum-A_KMxzhfFlI.jpg" group-title="BERITA"
+
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -283,6 +285,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
 
 
 ---------------------------->PENGETAHUAN<----------------------------
+#EXTINF:-1 group-logo="https://previews.123rf.com/images/esancai/esancai1410/esancai141000031/32382720-bulb-with-innovation-idea-symbol.jpg" group-title="PENGETAHUAN"
+
 
 #EXTINF:-1 group-title="PENGETAHUAN"  tvg-logo="https://images.indihometv.com/logo_disco_ver1.png",DISCOVERY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -380,6 +384,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 
 
 ---------------------------->ANAK-ANAK<----------------------------
+#EXTINF:-1 group-logo="https://tangselkota.bnn.go.id/konten/unggahan/2020/10/anak-indonesia-tanpa-narkoba.jpg" group-title="ANAK-ANAK"
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -464,7 +469,7 @@ http://210.210.155.37/uq2663/h/h201/01.m3u8
 
 
 ---------------------------->FILM<----------------------------
-
+#EXTINF:-1 group-logo="https://www.shutterstock.com/image-vector/film-clapperboard-isolated-on-white-260nw-1904170228.jpg" group-title="FILM"
 
 #EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/476/791/png-clipart-hbo-now-hbo-go-television-hbo-latino-others-text-logo.png" group-title="FILM", HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -678,6 +683,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinema
 
 
 ---------------------------->OLAHRAGA<----------------------------
+#EXTINF:-1 group-logo="https://static4.depositphotos.com/1013084/343/v/450/depositphotos_3430480-stock-illustration-sport-silhouettes.jpg" group-title="OLAHRAGA"
 
 
 #EXTINF:-1 tvg-id="SportStars.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png" group-title="OLAHRAGA",Sportstars 1 HD
@@ -759,6 +765,7 @@ https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-033/stream.mpd
 
 
 ---------------------------->OLAHRAGA CAMPUR<----------------------------
+#EXTINF:-1 group-logo="https://static4.depositphotos.com/1013084/343/v/450/depositphotos_3430480-stock-illustration-sport-silhouettes.jpg" group-title="OLAHRAGA CAMPUR"
 
 #EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://static.klix.ba/media/images/vijesti/221222062.jpg" group-title="OLAHRAGA CAMPUR", ARENA SPORT 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1813,6 +1820,7 @@ https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1131/da
 
 
 ---------------------------->MUSIK<----------------------------
+#EXTINF:-1 group-logo="https://monitor.co.id/wp-content/uploads/2018/01/images-38.jpeg" group-title="MUSIK"
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1851,6 +1859,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
 https://servicebuss.transvision.co.id/live/master/100/4028c685840ff0490184560acf62436a/manifest.mpd
 
 ---------------------------->ROHANI<----------------------------
+#EXTINF:-1 group-logo="https://awsimages.detik.net.id/community/media/visual/2023/05/15/ilustrasi-salib_169.jpeg?w=600&q=90" group-title="ROHANI"
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1890,6 +1899,7 @@ https://servicebuss.transvision.co.id/live/master/3/4028c685730a4243017321f35517
 
 
 ---------------------------->ENTERTAINMENT<----------------------------
+#EXTINF:-1 group-logo="https://t4.ftcdn.net/jpg/00/96/90/65/360_F_96906535_1ludls0yURJFEeNPxyYQMEMl6FsSqyzi.jpg" group-title="ENTERTAINMENT"
 
 
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/Fitness%20TV.jpg" group-title="ENTERTAINMENT",Fitness TV
