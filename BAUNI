@@ -1,4 +1,4 @@
-#EXTM3U x-url-tvg="https://epg-api.visionplus.id/api/v1/epg?isLive=false&start_time_from=2023-10-01&channel_ids=2"
+#EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/WaroenkTV/m3u8/main/epg/guide.xml.gz, https://raw.githubusercontent.com/WaroenkTV/m3u8/main/epg/guide.xml.gz" refresh="3600"
 
@@ -351,7 +351,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoCha
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
-#EXTINF:-1 tvg-id=""  tvg-logo="https://www.visionplus.id/images/repository/024/50024-SNAPSHOT-m.png" group-title="PENGETAHUAN",Love Nature
+#EXTINF:-1 tvg-id="Love Nature.id"  tvg-logo="https://www.visionplus.id/images/repository/024/50024-SNAPSHOT-m.png" group-title="PENGETAHUAN",Love Nature
 https://cempedak-live-cdn.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 #EXTINF:-1 group-title="PENGETAHUAN" tvg-logo="https://www.transvision.co.id/img/channel/lingua.png", LINGUA 
@@ -704,13 +704,13 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
-#EXTINF:-1 tvg-id="SPOTV.kr.id" tvg-logo="https://static.mncnow.id/images/channel/9e11438e/f5ad_r32.jpg" group-title="OLAHRAGA",SpoTV
+#EXTINF:-1 tvg-id="SPOTV.kr.id" tvg-logo="https://static.mncnow.id/images/channel/9e11438e/f5ad_r32.jpg" group-title="OLAHRAGA",SPOTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
-#EXTINF:-1 tvg-id="SPOTV2.kr.id" tvg-logo="https://static.mncnow.id/images/channel/9c1465ab/79a6_r32.jpg" group-title="OLAHRAGA",SpoTV 2
+#EXTINF:-1 tvg-id="SPOTV2.kr.id" tvg-logo="https://static.mncnow.id/images/channel/9c1465ab/79a6_r32.jpg" group-title="OLAHRAGA",SPOTV 2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
